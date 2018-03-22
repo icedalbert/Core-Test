@@ -1,0 +1,13 @@
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\mvc.exe
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\mvc.deps.json
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\mvc.runtimeconfig.json
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\mvc.runtimeconfig.dev.json
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\mvc.dll
+C:\Users\uovieal\Documents\Dev\mvc\bin\Debug\netcoreapp2.0\win7-x64\mvc.pdb
+C:\Users\uovieal\Documents\Dev\mvc\obj\Debug\netcoreapp2.0\win7-x64\mvc.csproj.CoreCompileInputs.cache
+C:\Users\uovieal\Documents\Dev\mvc\obj\Debug\netcoreapp2.0\win7-x64\mvc.AssemblyInfoInputs.cache
+C:\Users\uovieal\Documents\Dev\mvc\obj\Debug\netcoreapp2.0\win7-x64\mvc.AssemblyInfo.cs
+C:\Users\uovieal\Documents\Dev\mvc\obj\Debug\netcoreapp2.0\win7-x64\mvc.dll
+C:\Users\uovieal\Documents\Dev\mvc\obj\Debug\netcoreapp2.0\win7-x64\mvc.pdb
